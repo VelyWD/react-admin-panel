@@ -1,0 +1,9 @@
+/* Daca vrem ca aplicatia sa ocupe intreg viewport-ul. */
+.app {
+  min-height: 100vh;
+  margin: 5pt;
+}
+
+.app h1 {
+  margin-top: 0;
+}
