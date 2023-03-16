@@ -60,7 +60,7 @@ class UserAddForm extends React.Component {
                     name="email"
                     onChange={(event) => this.updateEmail(event)}
                 />
-                <label htmlFor="image">Poza de profil:</label>
+                <label htmlFor="image">{"Poza de profil (URL)"}:</label>
                 <input
                     type="text"
                     name="image"
